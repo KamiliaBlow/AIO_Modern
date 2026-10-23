@@ -1,4 +1,4 @@
-## Interface: 102060, 110200, 120000, 120001, 120100
+## Interface: 102060, 110200, 120000, 120001, 120100, 120105
 ## Title: AIO
 ## Notes: Allows sending addons from server to client and allows client-server communication.
 ## Author: Rochet2 <https://github.com/Rochet2>
